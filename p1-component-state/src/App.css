@@ -28,6 +28,12 @@
   color: #61dafb;
 }
 
+.subscribe-button {
+  color: #fff;
+  background-color: red;
+  border: red;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
